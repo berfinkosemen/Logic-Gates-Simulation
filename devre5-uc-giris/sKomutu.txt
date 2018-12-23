@@ -1,0 +1,5 @@
+0 ns   b  giris/cikisi  1-> 0
+1 ns   l  giris/cikisi  0-> 1
+2 ns   f  giris/cikisi  0-> 0
+3 ns   k  giris/cikisi  0-> 1
+4 ns   f  giris/cikisi  0-> 1

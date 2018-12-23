@@ -1,0 +1,8 @@
+y	devre.txt
+i	deger.txt
+h	b
+s
+l	b
+s
+g*
+c

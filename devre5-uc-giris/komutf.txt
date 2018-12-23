@@ -1,0 +1,11 @@
+Komut					Icrasi
+Y <devre.txt>				"devre.txt" dosyasindan devreyi yukler
+I						"deger.txt" icindeki degerlerle devre ilklendirilir
+H <giris ucundan biri/birileri>		Ilgili uc/uclari Lojik-1 yapar
+L <giris ucundan biri/birileri>		Ilgili uc/uclari Lojik-0 yapar
+S						Devreyi simule eder
+G <giris/cikis ucundan biri/birileri>	Ilgili uc/uclarin seviyesini (0 veya 1) konsolda gosterir
+G*						Tum uclarin seviyesini (0 veya 1) konsolda gosterir
+K <komut.txt>				"komut.txt" dosyasi icindeki komutlari konsoldan oldugu gibi icra eder
+C						Benzetimden cikis yapar
+

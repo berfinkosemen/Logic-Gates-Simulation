@@ -1,0 +1,10 @@
+y	devre.txt
+i	deger.txt
+h	b
+s
+l	b
+s
+g*
+k	komutf.txt
+g	b
+c
