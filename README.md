@@ -11,7 +11,7 @@ Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 1-PAKETİN İÇERİĞİ:
 -------------------
-170201008-170201058.txt - Projenin tek dosyaya indirgenmiş salt kaynak kodu.
+main.c - proje.
 README.md - Bu dosya.
 -------------------
 
@@ -96,12 +96,20 @@ işlemler ise tarih/saat kaydedilerek log.txt dosyasına yazdırılır.
 C/c komutu girildiğinde program sonlandırılır.
 
 Komutlar 			   ve 		İcraları
-Y <devre.txt> 					“devre.txt” dosyasından devreyi yükler
-I 						“deger.txt” icindeki degerlerle devre ilklendirilir
-H <giris ucundan biri/birileri> 		Ilgili uç/uçları Lojik-1 yapar
-L <giris ucundan biri/birileri> 		Ilgili uç/uçları Lojik-0 yapar
-S 						Devreyi simüle eder
+Y <devre.txt> 					                  “devre.txt” dosyasından devreyi yükler
+
+I 						                            “deger.txt” icindeki degerlerle devre ilklendirilir
+
+H <giris ucundan biri/birileri> 		      Ilgili uç/uçları Lojik-1 yapar
+
+L <giris ucundan biri/birileri> 		      Ilgili uç/uçları Lojik-0 yapar
+
+S 						                            Devreyi simüle eder
+
 G <giris/çıkıs ucundan biri/birileri> 		Ilgili uç/uçların seviyesini (0 veya 1) konsolda gösterir
-G* 						Tüm uçların seviyesini (0 veya 1) konsolda gösterir
-K <komut.txt> 					“komut.txt” dosyası içindeki komutları konsoldan oldugu gibi icra eder
-C 						 Benzetimden çıkıs yapar
+
+G* 						                            Tüm uçların seviyesini (0 veya 1) konsolda gösterir
+
+K <komut.txt> 					                  “komut.txt” dosyası içindeki komutları konsoldan oldugu gibi icra eder
+
+C 						                            Benzetimden çıkıs yapar
