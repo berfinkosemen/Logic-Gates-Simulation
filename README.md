@@ -2,10 +2,10 @@
 
 Lojik Devre Benzetimi
 
-Fatma Değirmenci  -	170201008
-Berfin Kösemen	  -	170201058
+Berfin Kösemen	  
+Fatma Değirmenci  
 
-Bu readme.txt dosyası, Lojik Devre Benzetimi projesine aittir.
+Bu README.md dosyası, Lojik Devre Benzetimi projesine aittir.
 Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 
