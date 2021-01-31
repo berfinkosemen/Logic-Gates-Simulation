@@ -1,0 +1,16 @@
+.giris	a	b	c	d	#girisler
+
+.cikis	p	#cikis
+
+.kapi	NOR	2	e	a	b	3
+
+.kapi	NAND	2	f	b	c	1
+
+.kapi	NOT	1	g	d	2
+
+.kapi	AND	2	h	e	f	1
+
+.kapi	NOT	1	k	f	2
+.kapi	OR	2	l	g	f	1
+.kapi	NAND	3	p	h	k	l	1
+.son
